@@ -8,13 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-Building...
-
 
 Education
 ======
 * B.S. in [Computer Science], Harbin Institute of Technology, Shenzhen, 2025 - Present
 * High School Diploma, Shenzhen Middle School, 2022 - 2025
+
 <!--
 Work experience
 ======
