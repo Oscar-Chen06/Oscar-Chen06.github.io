@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Building...
+☺️I am a second-year undergraduate student majoring in Computer science at Harbin Institute of Technology(shenzhen). Looking for something interesting to do.
