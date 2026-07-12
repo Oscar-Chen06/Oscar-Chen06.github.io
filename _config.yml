@@ -22,7 +22,7 @@ repository               : "Oscar-Chen06/Oscar-Chen06.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/avatar.png"
+  avatar           : "https://cv.os0681.top/images/avatar.png"
   name             : "Chensirui（Oscar）"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
