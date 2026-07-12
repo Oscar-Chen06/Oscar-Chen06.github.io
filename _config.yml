@@ -13,8 +13,7 @@ title                    : "Chen sirui"
 title_separator          : "-"
 name                     : "Chensirui"
 description              : "Chensirui's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://Oscar-Chen06.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://cv.os0681.top"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Oscar-Chen06/Oscar-Chen06.github.io"
 
@@ -23,7 +22,7 @@ repository               : "Oscar-Chen06/Oscar-Chen06.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/avatar.png"
+  avatar           : "images/avatar.png"
   name             : "Chensirui（Oscar）"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
