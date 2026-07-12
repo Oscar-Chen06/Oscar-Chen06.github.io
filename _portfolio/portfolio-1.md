@@ -1,7 +1,7 @@
 ---
 title: "Portfolio item number 1"
 excerpt: "Performed as the lead violinist in front of an audience of 100+ students and faculty.You can watch our performance at [BV1p8Js6tEAq]
-<br/><img src='/images/violin.jpg'>"
+<br/><img src='https://cv.os0681.top/images/violin.jpg'>"
 collection: portfolio
 ---
 
